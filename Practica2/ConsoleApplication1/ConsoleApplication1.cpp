@@ -8,7 +8,7 @@ int main()
     using namespace std;
 
     //character stats
-    int characterHP = 500;
+    int characterHP = 300;
     int characterDamage = 120;
     string characterName;
 
@@ -17,6 +17,12 @@ int main()
     int bossHP = 200;
     int bossDamage = 20;
     string bossName = "LLUCNEITOR";
+
+
+    //boss2 stats
+    int bossHP2 = 200;
+    int bossDamage2 = 20;
+    string bossName2 = "JAVI";
 
     //enter your name
     cout << "Escribe el nombre de tu heroe\n";
