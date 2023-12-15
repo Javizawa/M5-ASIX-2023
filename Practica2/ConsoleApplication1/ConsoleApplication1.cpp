@@ -22,7 +22,7 @@ int main()
     //boss2 stats
     int bossHP2 = 200;
     int bossDamage2 = 20;
-    string bossName2 = "JAVI";
+    string bossName2 = "RAMON";
 
     //enter your name
     cout << "Escribe el nombre de tu heroe\n";
